@@ -1,0 +1,27 @@
+{
+  "name": "fib-jsonld",
+  "version": "1.0.0",
+  "description": "A JSON-LD Processor and API implementation for fibjs.",
+  "homepage": "https://github.com/Instun/fib-jsonld.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Instun/fib-jsonld.js"
+  },
+  "license": "BSD-3-Clause",
+  "main": "lib/index.js",
+  "scripts": {
+    "docs": "jsdoc --configure .jsdoc.json"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "docdash": "^1.2.0"
+  },
+  "keywords": [
+    "JSON",
+    "JSON-LD",
+    "Linked Data",
+    "RDF",
+    "Semantic Web",
+    "jsonld"
+  ]
+}
