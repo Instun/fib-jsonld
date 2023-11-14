@@ -1,6 +1,6 @@
 {
   "name": "fib-jsonld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON-LD Processor and API implementation for fibjs.",
   "homepage": "https://github.com/Instun/fib-jsonld.js",
   "repository": {
