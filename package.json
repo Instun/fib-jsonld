@@ -1,6 +1,6 @@
 {
   "name": "fib-jsonld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JSON-LD Processor and API implementation for fibjs.",
   "homepage": "https://github.com/Instun/fib-jsonld.js",
   "repository": {
@@ -23,5 +23,8 @@
     "RDF",
     "Semantic Web",
     "jsonld"
-  ]
+  ],
+  "dependencies": {
+    "jsonld": "^8.3.1"
+  }
 }
